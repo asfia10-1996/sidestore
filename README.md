@@ -1,4 +1,4 @@
-# SideStore
+# SideStore app
 
 > SideStore is an *untethered, community driven* alternative app store for non-jailbroken iOS devices 
 
